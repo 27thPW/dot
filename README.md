@@ -1,8 +1,27 @@
 dot
 ===
 
-A set of cursors for everyday use.
+A set of cursors for everyday use. Works really well with trackpoint.
 
-Hotspots on all are of-center. It shouldn't affect anything too much, but I'll get around to fixing it sometime.
+CUR for Windows and PNG for everything else included. Do what you want with them, I don't care.
 
-I don't like the text cursor. I'll prolly end up redoing it sometime soon.
+Samples
+===
+
+Standard
+
+![Standard cursor](https://i.imgur.com/KJQOWxB.png)
+
+Link
+
+![Link](https://i.imgur.com/uv3vVcr.png)
+
+Resizing stuff
+
+![Diagonal 1](https://i.imgur.com/hn370IC.png)
+![Diagonal 2](http://i.imgur.com/Y8kfoBf.png)
+![Vertical](https://i.imgur.com/CacS13P.png)
+![Horizontal](http://i.imgur.com/bLH5Dtq.png)
+
+...and much more! The possibilities are endless.
+
